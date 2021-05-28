@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 6c586083cc315044ea79d2035c192b8f
+timeCreated: 1521658773
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Blade
+    100004: Front Piece 1
+    100006: Front piece 2
+    100008: Glass
+    100010: Main
+    100012: Rotor Mount
+    100014: Tail Blade
+    100016: Tail Rotor
+    100018: Wheel
+    100020: Wheels
+    100022: Wheels.001
+    400000: //RootNode
+    400002: Blade
+    400004: Front Piece 1
+    400006: Front piece 2
+    400008: Glass
+    400010: Main
+    400012: Rotor Mount
+    400014: Tail Blade
+    400016: Tail Rotor
+    400018: Wheel
+    400020: Wheels
+    400022: Wheels.001
+    2300000: Blade
+    2300002: Front Piece 1
+    2300004: Front piece 2
+    2300006: Glass
+    2300008: Main
+    2300010: Rotor Mount
+    2300012: Tail Blade
+    2300014: Tail Rotor
+    2300016: Wheel
+    2300018: Wheels
+    2300020: Wheels.001
+    3300000: Blade
+    3300002: Front Piece 1
+    3300004: Front piece 2
+    3300006: Glass
+    3300008: Main
+    3300010: Rotor Mount
+    3300012: Tail Blade
+    3300014: Tail Rotor
+    3300016: Wheel
+    3300018: Wheels
+    3300020: Wheels.001
+    4300000: Wheels.001
+    4300002: Glass
+    4300004: Front piece 2
+    4300006: Front Piece 1
+    4300008: Tail Rotor
+    4300010: Tail Blade
+    4300012: Wheel
+    4300014: Wheels
+    4300016: Blade
+    4300018: Rotor Mount
+    4300020: Main
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 106d6bd600348f5448d3390031decdb7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

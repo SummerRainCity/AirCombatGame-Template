@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 4d2ab72d60289d44c869a17c1c734361
+timeCreated: 1526787371
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bay Door
+    100004: Bomb Mounts
+    100006: Frame
+    100008: Front Hatch
+    100010: Front Suspension
+    100012: Front Wheels
+    100014: Left Aileron
+    100016: Left Elevator
+    100018: Rear Hatch L
+    100020: Rear Hatch R
+    100022: Rear Suspension L
+    100024: Rear Suspension R
+    100026: Rear Wheel L 1
+    100028: Rear Wheel L 2
+    100030: Rear Wheel L 3
+    100032: Rear Wheel R 1
+    100034: Rear Wheel R 2
+    100036: Rear Wheel R 3
+    100038: Right Aileron
+    100040: Right Elevator
+    100042: Rotors L 1
+    100044: Rotors L 2
+    100046: Rotors R 1
+    100048: Rotors R 2
+    100050: Rudder
+    400000: //RootNode
+    400002: Bay Door
+    400004: Bomb Mounts
+    400006: Frame
+    400008: Front Hatch
+    400010: Front Suspension
+    400012: Front Wheels
+    400014: Left Aileron
+    400016: Left Elevator
+    400018: Rear Hatch L
+    400020: Rear Hatch R
+    400022: Rear Suspension L
+    400024: Rear Suspension R
+    400026: Rear Wheel L 1
+    400028: Rear Wheel L 2
+    400030: Rear Wheel L 3
+    400032: Rear Wheel R 1
+    400034: Rear Wheel R 2
+    400036: Rear Wheel R 3
+    400038: Right Aileron
+    400040: Right Elevator
+    400042: Rotors L 1
+    400044: Rotors L 2
+    400046: Rotors R 1
+    400048: Rotors R 2
+    400050: Rudder
+    2300000: Bay Door
+    2300002: Bomb Mounts
+    2300004: Frame
+    2300006: Front Hatch
+    2300008: Front Suspension
+    2300010: Front Wheels
+    2300012: Left Aileron
+    2300014: Left Elevator
+    2300016: Rear Hatch L
+    2300018: Rear Hatch R
+    2300020: Rear Suspension L
+    2300022: Rear Suspension R
+    2300024: Rear Wheel L 1
+    2300026: Rear Wheel L 2
+    2300028: Rear Wheel L 3
+    2300030: Rear Wheel R 1
+    2300032: Rear Wheel R 2
+    2300034: Rear Wheel R 3
+    2300036: Right Aileron
+    2300038: Right Elevator
+    2300040: Rotors L 1
+    2300042: Rotors L 2
+    2300044: Rotors R 1
+    2300046: Rotors R 2
+    2300048: Rudder
+    3300000: Bay Door
+    3300002: Bomb Mounts
+    3300004: Frame
+    3300006: Front Hatch
+    3300008: Front Suspension
+    3300010: Front Wheels
+    3300012: Left Aileron
+    3300014: Left Elevator
+    3300016: Rear Hatch L
+    3300018: Rear Hatch R
+    3300020: Rear Suspension L
+    3300022: Rear Suspension R
+    3300024: Rear Wheel L 1
+    3300026: Rear Wheel L 2
+    3300028: Rear Wheel L 3
+    3300030: Rear Wheel R 1
+    3300032: Rear Wheel R 2
+    3300034: Rear Wheel R 3
+    3300036: Right Aileron
+    3300038: Right Elevator
+    3300040: Rotors L 1
+    3300042: Rotors L 2
+    3300044: Rotors R 1
+    3300046: Rotors R 2
+    3300048: Rudder
+    4300000: Rudder
+    4300002: Left Elevator
+    4300004: Right Elevator
+    4300006: Right Aileron
+    4300008: Left Aileron
+    4300010: Front Hatch
+    4300012: Frame
+    4300014: Bay Door
+    4300016: Rear Hatch L
+    4300018: Rear Hatch R
+    4300020: Rotors R 2
+    4300022: Rotors R 1
+    4300024: Rotors L 2
+    4300026: Bomb Mounts
+    4300028: Rotors L 1
+    4300030: Rear Suspension R
+    4300032: Rear Wheel R 1
+    4300034: Rear Wheel L 2
+    4300036: Rear Wheel R 2
+    4300038: Rear Wheel L 3
+    4300040: Rear Wheel R 3
+    4300042: Rear Wheel L 1
+    4300044: Rear Suspension L
+    4300046: Front Wheels
+    4300048: Front Suspension
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: c29bb035121c6d942afea992a9ea46d8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

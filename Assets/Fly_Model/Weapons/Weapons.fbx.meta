@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 1d4b6fa3440a8ca46879295a62fdafa4
+timeCreated: 1522268703
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AC130 Bomb
+    100002: AH64 Missile
+    100004: Bomb 1
+    100006: Bomb 2
+    100008: Bomb 3
+    100010: Bracket 1 L
+    100012: Bracket 2 L
+    100014: Bracket 3 L
+    100016: Bracket 4 L
+    100018: Camera
+    100020: F16 Bomb
+    100022: F16 Missile L
+    100024: F16 Missile M
+    100026: F16 Missile S
+    100028: Full Turret
+    100030: Half Turret
+    100032: Large Cannon L
+    100034: Machine Gun
+    100036: Machine Gun Pivot
+    100038: Mini Full Turret
+    100040: Mini Half Turret
+    100042: Minigun L
+    100044: Search Light
+    100046: Search Light Pivot
+    100048: Small Cannon L
+    100050: Turret Gun
+    100052: //RootNode
+    400000: AC130 Bomb
+    400002: AH64 Missile
+    400004: Bomb 1
+    400006: Bomb 2
+    400008: Bomb 3
+    400010: Bracket 1 L
+    400012: Bracket 2 L
+    400014: Bracket 3 L
+    400016: Bracket 4 L
+    400018: Camera
+    400020: F16 Bomb
+    400022: F16 Missile L
+    400024: F16 Missile M
+    400026: F16 Missile S
+    400028: Full Turret
+    400030: Half Turret
+    400032: Large Cannon L
+    400034: Machine Gun
+    400036: Machine Gun Pivot
+    400038: Mini Full Turret
+    400040: Mini Half Turret
+    400042: Minigun L
+    400044: Search Light
+    400046: Search Light Pivot
+    400048: Small Cannon L
+    400050: Turret Gun
+    400052: //RootNode
+    2300000: AC130 Bomb
+    2300002: AH64 Missile
+    2300004: Bomb 1
+    2300006: Bomb 2
+    2300008: Bomb 3
+    2300010: Bracket 1 L
+    2300012: Bracket 2 L
+    2300014: Bracket 3 L
+    2300016: Bracket 4 L
+    2300018: Camera
+    2300020: F16 Bomb
+    2300022: F16 Missile L
+    2300024: F16 Missile M
+    2300026: F16 Missile S
+    2300028: Full Turret
+    2300030: Half Turret
+    2300032: Large Cannon L
+    2300034: Machine Gun
+    2300036: Machine Gun Pivot
+    2300038: Mini Full Turret
+    2300040: Mini Half Turret
+    2300042: Minigun L
+    2300044: Search Light
+    2300046: Search Light Pivot
+    2300048: Small Cannon L
+    2300050: Turret Gun
+    3300000: AC130 Bomb
+    3300002: AH64 Missile
+    3300004: Bomb 1
+    3300006: Bomb 2
+    3300008: Bomb 3
+    3300010: Bracket 1 L
+    3300012: Bracket 2 L
+    3300014: Bracket 3 L
+    3300016: Bracket 4 L
+    3300018: Camera
+    3300020: F16 Bomb
+    3300022: F16 Missile L
+    3300024: F16 Missile M
+    3300026: F16 Missile S
+    3300028: Full Turret
+    3300030: Half Turret
+    3300032: Large Cannon L
+    3300034: Machine Gun
+    3300036: Machine Gun Pivot
+    3300038: Mini Full Turret
+    3300040: Mini Half Turret
+    3300042: Minigun L
+    3300044: Search Light
+    3300046: Search Light Pivot
+    3300048: Small Cannon L
+    3300050: Turret Gun
+    4300000: Search Light
+    4300002: Search Light Pivot
+    4300004: Mini Half Turret
+    4300006: Camera
+    4300008: Mini Full Turret
+    4300010: Machine Gun
+    4300012: AC130 Bomb
+    4300014: F16 Bomb
+    4300016: F16 Missile M
+    4300018: Bracket 4 L
+    4300020: Bracket 3 L
+    4300022: Minigun L
+    4300024: Bracket 1 L
+    4300026: Large Cannon L
+    4300028: Small Cannon L
+    4300030: Bracket 2 L
+    4300032: Machine Gun Pivot
+    4300034: AH64 Missile
+    4300036: Full Turret
+    4300038: Half Turret
+    4300040: Bomb 3
+    4300042: Turret Gun
+    4300044: F16 Missile L
+    4300046: Bomb 2
+    4300048: F16 Missile S
+    4300050: Bomb 1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: bf16bc87ebff9834f93e1928af704b2d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

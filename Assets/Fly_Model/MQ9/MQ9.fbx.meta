@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 37347aa2cce191048827e90dbea9b693
+timeCreated: 1527613270
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Camera Mount
+    100004: Frame
+    100006: Front Suspension
+    100008: Front Wheel
+    100010: Left Suspension
+    100012: Left Wheel
+    100014: //RootNode
+    100016: Propeller
+    100018: Right Suspension
+    100020: Right Wheel
+    100022: Weapon Mount L 1
+    100024: Weapon Mount L 2
+    100026: Weapon Mount R 1
+    100028: Weapon Mount R 2
+    400000: Camera
+    400002: Camera Mount
+    400004: Frame
+    400006: Front Suspension
+    400008: Front Wheel
+    400010: Left Suspension
+    400012: Left Wheel
+    400014: //RootNode
+    400016: Propeller
+    400018: Right Suspension
+    400020: Right Wheel
+    400022: Weapon Mount L 1
+    400024: Weapon Mount L 2
+    400026: Weapon Mount R 1
+    400028: Weapon Mount R 2
+    2300000: Camera
+    2300002: Camera Mount
+    2300004: Frame
+    2300006: Front Suspension
+    2300008: Front Wheel
+    2300010: Left Suspension
+    2300012: Left Wheel
+    2300014: Propeller
+    2300016: Right Suspension
+    2300018: Right Wheel
+    2300020: Weapon Mount L 1
+    2300022: Weapon Mount L 2
+    2300024: Weapon Mount R 1
+    2300026: Weapon Mount R 2
+    3300000: Camera
+    3300002: Camera Mount
+    3300004: Frame
+    3300006: Front Suspension
+    3300008: Front Wheel
+    3300010: Left Suspension
+    3300012: Left Wheel
+    3300014: Propeller
+    3300016: Right Suspension
+    3300018: Right Wheel
+    3300020: Weapon Mount L 1
+    3300022: Weapon Mount L 2
+    3300024: Weapon Mount R 1
+    3300026: Weapon Mount R 2
+    4300000: Weapon Mount R 2
+    4300002: Weapon Mount L 2
+    4300004: Weapon Mount L 1
+    4300006: Front Wheel
+    4300008: Left Wheel
+    4300010: Weapon Mount R 1
+    4300012: Left Suspension
+    4300014: Right Wheel
+    4300016: Camera Mount
+    4300018: Camera
+    4300020: Propeller
+    4300022: Front Suspension
+    4300024: Right Suspension
+    4300026: Frame
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 925a125afbca4764595fb74cac596384, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

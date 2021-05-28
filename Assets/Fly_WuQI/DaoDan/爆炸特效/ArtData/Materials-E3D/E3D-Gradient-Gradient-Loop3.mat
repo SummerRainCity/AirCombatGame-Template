@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: E3D-Gradient-Gradient-Loop3
+  m_Shader: {fileID: 4800000, guid: c3c3cd3a74134f44782da26ff82315f5, type: 3}
+  m_ShaderKeywords: _NODE_8822_ON
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 5000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: b25eb1ff4456b2c479239bd9db3ec35e, type: 3}
+        m_Scale: {x: 1, y: 0.6}
+        m_Offset: {x: 0, y: 0.5}
+    - _BaseMaskMap:
+        m_Texture: {fileID: 2800000, guid: 87ae15c744e5b9f428615d4de6883711, type: 3}
+        m_Scale: {x: -1, y: -1}
+        m_Offset: {x: 0, y: -0.33}
+    - _Gradient:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 82580b59ccc3999448eb89d3801be20d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: -1, y: 0}
+    - _Maintex:
+        m_Texture: {fileID: 2800000, guid: 82580b59ccc3999448eb89d3801be20d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask:
+        m_Texture: {fileID: 2800000, guid: e444299a922681e429fb2d315b360efd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskMap:
+        m_Texture: {fileID: 2800000, guid: fe9af1b61aa108742aa3262311414999, type: 3}
+        m_Scale: {x: 1, y: 2.11}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseMap:
+        m_Texture: {fileID: 2800000, guid: 897456c8a527be74cb497fe8b9690c52, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _diff:
+        m_Texture: {fileID: 2800000, guid: b5a5f24e0668f384e918f2a99c2ddfc0, type: 3}
+        m_Scale: {x: 1, y: 0.5}
+        m_Offset: {x: 0, y: 0.32}
+    - _diff_copy:
+        m_Texture: {fileID: 2800000, guid: cbe4f943d54f64d4f8ed0bf929817304, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _mask:
+        m_Texture: {fileID: 2800000, guid: b797f504c46da624da949ac7f2cc56c0, type: 3}
+        m_Scale: {x: 0.71, y: 0.51}
+        m_Offset: {x: 0, y: 0}
+    - _mask_copy:
+        m_Texture: {fileID: 2800000, guid: 723d609500fd514409fabd10ed79ed0e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _noise:
+        m_Texture: {fileID: 2800000, guid: 723d609500fd514409fabd10ed79ed0e, type: 3}
+        m_Scale: {x: 0.49, y: 0.45}
+        m_Offset: {x: 0.49, y: 0.66}
+    - _noise_copy:
+        m_Texture: {fileID: 2800000, guid: 723d609500fd514409fabd10ed79ed0e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Alpha: 1
+    - _Brightness: 10
+    - _Cutoff: 0.5
+    - _Diss: 0.362
+    - _EdgeIntensity: 0.328
+    - _FaceBaseColor: 1
+    - _FaceEdgeColor: 1
+    - _Follow: 0
+    - _Glow: 0.97
+    - _InvFade: 3
+    - _Noise: 0.14
+    - _Pow: 31.97
+    - _Power: 3
+    - _Soft: 50
+    - _Uspeed: -0.48
+    - _Vspeed: 0.1
+    - __dirty: 0
+    - _alpha: 1.51
+    - _diss_u: 0
+    - _diss_u_copy: 0
+    - _diss_v: -0.39
+    - _diss_v_copy: 0
+    - _node_6774: 0
+    - _node_8822: 1
+    - _pow: 1
+    - _power: 7
+    - _speed_u: -0.5
+    - _speed_u_copy: 0
+    - _speed_v: 0
+    - _speed_v_copy: 0
+    - _strenght: 1
+    - _strength: 20
+    - _strength_copy: 2
+    m_Colors:
+    - _BaseColor: {r: 2.565, g: 1.5088236, b: 0.37720594, a: 1}
+    - _EdgeColor: {r: 1, g: 1, b: 1, a: 1}
+    - _MaskSpeed: {r: -0.1, g: 0.3, b: 0, a: 0}
+    - _NoiseSpeed: {r: 0.2, g: 0, b: 0, a: 0}
+    - _TintColor: {r: 0.77205884, g: 0.77205884, b: 0.77205884, a: 1}
+    - _color: {r: 0, g: 0, b: 0, a: 0.778}
+    - _color_copy: {r: 1, g: 1, b: 1, a: 1}
