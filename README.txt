@@ -3,8 +3,8 @@
  - Author: Alan21 | SummerRainCity
  - Operating platform: PC
  - Unity3D version: [Unity 2019.4.23f1c1 (64-bit)](https://unity.cn/releases/full/2019)
- - Explain: The beginner¡¯s project may not be perfect, but I hope this project will help you a bit.
+ - Explain: The beginnerâ€™s project may not be perfect, but I hope this project will help you a bit.
 
-#### ÓÎÏ·³¡¾°£º
- 1. Fighter_Scene.unity - Õ½¶·»ú¿ØÖÆÑİÊ¾³¡¾°
- 2. Helicopter_Scene.unity - Ö±Éı»ú¿ØÖÆÑİÊ¾³¡¾°
+#### æ¸¸æˆåœºæ™¯ï¼š
+ 1. Fighter_Scene.unity - æˆ˜æ–—æœºæ§åˆ¶æ¼”ç¤ºåœºæ™¯
+ 2. Helicopter_Scene.unity - ç›´å‡æœºæ§åˆ¶æ¼”ç¤ºåœºæ™¯
