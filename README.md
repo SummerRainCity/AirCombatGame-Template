@@ -6,5 +6,5 @@
  - Explain: The beginner’s project may not be perfect, but I hope this project will help you a bit.
 
 #### 游戏场景：
- 1. Fighter_Scene.unity - 战斗机控制演示场景
- 2. Helicopter_Scene.unity - 直升机控制演示场景
+ 1. Fighter_Scene - 战斗机控制演示场景
+ 2. Helicopter_Scene - 直升机控制演示场景
